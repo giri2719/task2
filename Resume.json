@@ -1,0 +1,50 @@
+{
+  "basics": {
+    "name": "V.Giribabu",
+    "email": "girik2719@gmail.com",
+    "phone": "9498094960",
+    "degree": "B.E",
+    "summary": "I am a fresher",
+    "location": {
+      "address": "c block",
+      "city": "Thiruvallur",
+      "country": "India"
+    },
+    "profiles": [
+      {
+        "network": " facebook",
+        "username": "giri2719"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Rajalakshmi Enginerring College",
+      "area": "Automobile",
+      "studyType": "Fulltime",
+      "startDate": "16-8-2017",
+      "endDate": "12-5-2021",
+      "gpa": "8.00"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": ["('Java','Python','SQL')"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional"
+    },
+    { "language": "Tamil", "fluency": "professional" }
+  ],
+  "interests": [
+    {
+      "name": "video games",
+      "keywords": ["(ps3', 'ps4', 'xbox')"]
+    }
+  ]
+}
